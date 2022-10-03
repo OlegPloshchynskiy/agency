@@ -336,7 +336,7 @@ textarea::placeholder {
 }
 
 footer {
-    background: url('../image/bg-bottom.png');
+    background: url('/image/bg-bottom.png');
     padding-top: 100px;
     margin-top: 200px;
 }
